@@ -1,1 +1,2 @@
-Hello! Let's use it !! 
+Hello! Let's use it !!
+New line added !  
